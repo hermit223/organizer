@@ -1,0 +1,60 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+header > div
+{
+	float: left;
+}
+main
+{
+	clear:both;
+}
+form
+{
+	padding: 30px;
+}
+#baner1, #baner2
+{
+	background-color: #126d20;
+	color: white;
+	height: 120px;
+	width: 40%;
+	margin-bottom: 15px;
+	
+}
+
+#baner3
+{
+	background-color: #126d20;
+	color: white;
+	height: 120px;
+	width: 20%;
+}
+
+
+
+main > div 
+{
+    background-color: #ffdab9;
+    width: 170px;
+    height: 90px;
+    margin: 5px;
+    border: 1px solid #3cb371;
+    float: left;
+	margin-left: 10px;
+
+}
+
+h5
+{    
+    text-align: center;
+}
+footer
+{
+	background-color: #3cb371;
+	color: white;
+	clear: both;
+	height: 50px;
+}
+
+
