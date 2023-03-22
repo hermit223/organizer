@@ -1,0 +1,2 @@
+# organizer
+egzamin inf 
